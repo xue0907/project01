@@ -5,5 +5,6 @@ public class MyTest {
 		System.out.println("James");
 		System.out.println("Kobe");
 		System.out.println("Wede");
+		System.out.println("bluceLi");
 	}
 }
