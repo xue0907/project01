@@ -6,5 +6,6 @@ public class MyTest {
 		System.out.println("Kobe");
 		System.out.println("Wede");
 		System.out.println("bluceLi");
+		ss
 	}
 }
